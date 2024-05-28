@@ -1,4 +1,4 @@
-# Vuetify File Browser Server & Backend SDK
+# File Browser Server & Backend SDK
 
 Backend for [Vuetify File Browser Component](https://www.npmjs.com/package/vuetify-file-browser)
 
@@ -7,8 +7,8 @@ Backend for [Vuetify File Browser Component](https://www.npmjs.com/package/vueti
 ### As standalone server
 
 ```bash
-git clone https://github.com/semeniuk/vuetify-file-browser-server
-cd vuetify-file-browser-server
+git clone https://github.com/semeniuk/file-server
+cd file-server
 cp .env.defaults .env
 ```
 
@@ -21,7 +21,7 @@ npm start
 ### As Express.js router
 
 ```bash
-npm i vuetify-file-browser-server
+npm i file-server
 ```
 
 ```js
