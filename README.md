@@ -7,7 +7,7 @@ Backend for [Vuetify File Browser Component](https://www.npmjs.com/package/vueti
 ### As standalone server
 
 ```bash
-git clone https://github.com/semeniuk/file-server
+git clone https://github.com/FISEPortal/file-server
 cd file-server
 cp .env.defaults .env
 ```
